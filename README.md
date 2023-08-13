@@ -2,7 +2,9 @@
 
 My name is natvisualizations
 <h1>WELCOME<h1>
-<style>
+  <head>
+    <title>Rainbow Divs</title>
+    <style>
       div {
         padding: 25px;
         font-size: 72px;
@@ -35,4 +37,5 @@ My name is natvisualizations
         background-color: purple;
       }
     </style>
-    
+  </head>
+
